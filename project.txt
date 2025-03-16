@@ -1,0 +1,6 @@
+Apenas o comeco do projeto:
+Vai ser desenvolvido um gerador de senha inteligente e seguro 
+Vou adicionar uma IA 
+Vai armazenar as senhas de maneira 100% com criptografia
+
+-> Vou estudar o uso da biblioteca "cryptography"
